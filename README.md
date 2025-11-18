@@ -104,7 +104,8 @@ public class Score : MonoBehaviour
 ## OUTPUT:
 <img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/8045b582-4308-4c74-b914-9cea2595ba95" />
 
-<img width="1919" height="1131" alt="image" src="https://github.com/user-attachments/assets/c3d37b3d-ba8f-4772-9b95-7c6dae17967d" />
+<img width="1915" height="1136" alt="image" src="https://github.com/user-attachments/assets/94078a1e-f764-437a-be05-7cfd72b57d8c" />
+
 
 
 ## RESULT:
