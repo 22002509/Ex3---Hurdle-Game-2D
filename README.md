@@ -111,7 +111,3 @@ public class Score : MonoBehaviour
 ## RESULT:
 2D game using C# program in Unity is successfully developed....
 
-
-## OUTPUT:
-
-## RESULT:
